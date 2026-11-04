@@ -1,29 +1,52 @@
-# Muzerion Android
+# Muzerion
 
-Локальный музыкальный плеер. Текущая версия: 0.5.6 Alpha.
+An Android music player for your own collection. Browse your tracks, adjust the sound, and make the player feel like yours.
 
-- Проект Android Studio: `C:\Projects`.
-- Пакет исходников, namespace и applicationId: `com.example.muzerion`.
-- Основные Kotlin-файлы: `app/src/main/java/com/example/muzerion`.
-- Сборка: `gradlew.bat :app:assemblePerformance`.
-- Вариант performance подписывается существующим локальным debug-ключом.
+Muzerion plays music stored on your device, including MP3, FLAC, and M4A files. Choose your music folders and listen offline, with playback controls available while the app is in the background or your screen is off.
 
-После переименования выполните Sync Project with Gradle Files в Android Studio.
-Новый applicationId означает отдельную установку Android с отдельными настройками и разрешениями. Перед удалением предыдущей установки сохраните нужные данные; текущие музыкальные файлы в Music/Telegram не изменяются.
+## Your music, organized
 
-## Подключение к компьютеру
+- Browse all your tracks or explore automatic collections by artist and album.
+- Search by track title, artist, or album.
+- Sort alphabetically or show recently added tracks first.
+- Add multiple music folders and refresh your library with a pull-down gesture.
+- View file details, including format, bitrate, sample rate, and bit depth when available.
 
-QR-схема: `{"muzerion":1,"host":"192.168.1.10","port":8081,"token":"32 hexadecimal characters"}`.
-Обработчик проверяет IPv4 локальной сети, порт, 32-символьный hex-токен и версию схемы.
-Десктоп должен генерировать маркер `muzerion: 1`; старая QR-схема больше не принимается.
-HTTP-порт передачи музыки и существующие маршруты API не изменены.
+## Shape the sound
 
-## Локальная библиотека
+- Adjust a 10-band equalizer from 32 Hz to 16 kHz.
+- Choose a built-in preset or save your own.
+- Use preamp and auto gain to help prevent clipping when boosting frequencies.
+- Change playback speed and pitch together or independently.
+- Try Slowed, Normal, or Speed up from the player.
 
-- Telegram/TDLib, авторизация и онлайн-поиск удалены. Файлы музыки на устройстве не удаляются при обновлении.
-- «Треки» → «Мои плейлисты» → «Поиск»; общий мини-плеер и свайпы между вкладками.
-- Автоподборки всей музыки, артистов и альбомов. Аватар артиста — обложка его последнего добавленного трека.
-- Альбомы разделяются по названию и альбомному исполнителю; порядок — по диску и номеру трека, если теги заполнены.
-- Удержание строки включает множественный выбор. Корзина заменяет «Сменить папку»; удаляются исходные файлы только после отдельного подтверждения.
-- Для удаления нужен доступ на запись к выбранной папке. Если ранее выдан только доступ на чтение, выберите ту же папку заново.
-- Проверка на реальном телефоне не должна запускать удаление пользовательских треков.
+## Take control of playback
+
+- See upcoming tracks in the full-screen player.
+- Reorder the queue, play a track next, or remove it from the queue.
+- Shuffle your collection or repeat the current track.
+- Swipe the cover to switch tracks and swipe down to close the full-screen player.
+- Resume from your saved playback position.
+
+## Make it yours
+
+Choose a light, dark, or system theme, pick an accent color, or use a monochrome look. Adjust the player’s cover-art background with separate blur and visibility controls, and customize text size and list spacing.
+
+The interface is available in **English and Russian**. English is selected on first launch; you can change it in **Settings → Language**.
+
+## Getting started
+
+1. Download an APK from [Releases](https://github.com/Wilast/Muzerion/releases), when a build is available.
+2. Install it on a device running **Android 8.0 or later**.
+3. Open Muzerion and choose a folder containing your music.
+4. To add more folders, go to **Settings → Library**.
+
+Select each music folder directly; subfolders are not scanned automatically.
+
+You can back up your preferences in **Settings → Storage & data**. Settings backups do not include music files.
+
+## Alpha version
+
+Muzerion is under active development. Features and appearance may change, and you may encounter bugs.
+
+Found a problem or have an idea? [Open an issue](https://github.com/Wilast/Muzerion/issues) and describe what happened. For bugs, include your app version, Android version, and the steps needed to reproduce the problem. If it concerns playback, mention the file format too.
