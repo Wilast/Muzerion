@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_2453e775fb" formatted="false">"File is too large"</string>
+    <string name="msg_2579d3eb91" formatted="false">"This is not a Muzerion settings backup"</string>
+    <string name="msg_3334b9b7a4" formatted="false">"Unknown setting: %1$s"</string>
+    <string name="msg_42a1e6c35f" formatted="false">"Unknown artist"</string>
+    <string name="msg_ae08c44ddc" formatted="false">"Could not prepare the player"</string>
+    <string name="msg_8005fc4871" formatted="false">"Equalizer"</string>
+    <string name="msg_398c7d4f7b" formatted="false">"Done"</string>
+    <string name="msg_6eb7540d7c" formatted="false">"Off"</string>
+    <string name="msg_5a10389801" formatted="false">"Enable equalizer"</string>
+    <string name="msg_ade34d9483" formatted="false">"32 Hz — 16 kHz"</string>
+    <string name="msg_b3b20a8a08" formatted="false">"Custom"</string>
+    <string name="msg_f88c984afe" formatted="false">"Preamp"</string>
+    <string name="msg_1a76051700" formatted="false">"Auto gain"</string>
+    <string name="msg_6ff4f02e0a" formatted="false">"Prevents audio clipping"</string>
+    <string name="msg_fbb31625b0" formatted="false">"Save preset"</string>
+    <string name="msg_058f162d29" formatted="false">"Reset"</string>
+    <string name="msg_4068df48cc" formatted="false">"My presets"</string>
+    <string name="msg_6f38f84d8d" formatted="false">"Delete preset %1$s"</string>
+    <string name="msg_1e2763caf0" formatted="false">"Custom preset"</string>
+    <string name="msg_3de49828e8" formatted="false">"Title"</string>
+    <string name="msg_629b745c61" formatted="false">"Enter a name"</string>
+    <string name="msg_4d03d8b7d4" formatted="false">"Choose a different name"</string>
+    <string name="msg_1fe95be246" formatted="false">"You can save up to 50 presets"</string>
+    <string name="msg_d772cc53be" formatted="false">"Replace"</string>
+    <string name="msg_4864057d62" formatted="false">"Save"</string>
+    <string name="msg_0ec753be8d" formatted="false">"Cancel"</string>
+    <string name="msg_ae3a08e626" formatted="false">"Delete “%1$s”?"</string>
+    <string name="msg_86ea33aef5" formatted="false">"Delete"</string>
+    <string name="msg_18c284ac29" formatted="false">"%+.1f dB"</string>
+    <string name="msg_1217534f2f" formatted="false">"%1$s Hz"</string>
+    <string name="msg_b1e23e1ff0" formatted="false">"Text size"</string>
+    <string name="msg_4f30c70379" formatted="false">"Compact list"</string>
+    <string name="msg_6615431ca4" formatted="false">"Cover size in lists"</string>
+    <string name="msg_1280fefc1a" formatted="false">"Remember playback position"</string>
+    <string name="msg_c000ede895" formatted="false">"Resume when headphones connect"</string>
+    <string name="msg_f0a95a2bcb" formatted="false">"Previous button restarts the track"</string>
+    <string name="msg_f676c627fb" formatted="false">"After 3 seconds of playback"</string>
+    <string name="msg_4fec828bcb" formatted="false">"Swipe cover to change tracks"</string>
+    <string name="msg_65d9a27202" formatted="false">"Swipe down to close player"</string>
+    <string name="msg_836030b4bd" formatted="false">"Haptic feedback"</string>
+    <string name="msg_b18c5c05ce" formatted="false">"Folder added"</string>
+    <string name="msg_3758c6338c" formatted="false">"Could not access the folder"</string>
+    <string name="msg_ae22420fc1" formatted="false">"Music folders"</string>
+    <string name="msg_0bbf909d7a" formatted="false">"Subfolders are not included"</string>
+    <string name="msg_66984540a1" formatted="false">"Main folder"</string>
+    <string name="msg_585b38ac20" formatted="false">"Add folder"</string>
+    <string name="msg_2c7295c565" formatted="false">"Refresh library automatically"</string>
+    <string name="msg_2d5ba1ca0f" formatted="false">"Hide tracks shorter than 30 seconds"</string>
+    <string name="msg_8b44c6b425" formatted="false">"Use file names as titles"</string>
+    <string name="msg_fabe7ed7c2" formatted="false">"Access denied"</string>
+    <string name="msg_bd6392e026" formatted="false">"Backup saved"</string>
+    <string name="msg_b1980f4b88" formatted="false">"Could not save the backup"</string>
+    <string name="msg_9de070e4dd" formatted="false">"Settings restored"</string>
+    <string name="msg_8a6ab1131e" formatted="false">"Could not open the settings backup"</string>
+    <string name="msg_6b5363eebf" formatted="false">"Cover cache: %1$s"</string>
+    <string name="msg_2ac5e3f865" formatted="false">"Clear cover cache"</string>
+    <string name="msg_86ec702586" formatted="false">"Clear cover cache?"</string>
+    <string name="msg_2dc29a49f0" formatted="false">"Your music will stay on the device."</string>
+    <string name="msg_69969d27fa" formatted="false">"Cover cache cleared"</string>
+    <string name="msg_98b2073ed1" formatted="false">"Clear"</string>
+    <string name="msg_72f931bda2" formatted="false">"Backup"</string>
+    <string name="msg_c29822ec54" formatted="false">"Settings only, without music"</string>
+    <string name="msg_87ae19737e" formatted="false">"Back up settings"</string>
+    <string name="msg_7e2c00e93f" formatted="false">"Restore settings"</string>
+    <string name="msg_7c379e8e5c" formatted="false">"Report saved"</string>
+    <string name="msg_8ff44cc92f" formatted="false">"Could not save the report"</string>
+    <string name="msg_7b55599e7a" formatted="false">"What’s new"</string>
+    <string name="msg_f069478e29" formatted="false">"Save error report"</string>
+    <string name="msg_7f8368a9ad" formatted="false">"Phone model and settings. No music or track names."</string>
+    <string name="msg_b6685882b1" formatted="false">"Library licenses"</string>
+    <string name="msg_f9bf7b2387" formatted="false">"AndroidX Compose and Media3 · Apache 2.0"</string>
+    <string name="msg_c77857d3a9" formatted="false">"Kotlin and kotlinx.coroutines · Apache 2.0"</string>
+    <string name="msg_9a22bf0126" formatted="false">"Back to collections"</string>
+    <string name="msg_2525af6b13" formatted="false">"Library"</string>
+    <string name="msg_630d41adb3" formatted="false">"My playlists"</string>
+    <string name="msg_6433b522a1" formatted="false">"Search"</string>
+    <string name="msg_454c899601" formatted="false">"Newest first ▾"</string>
+    <string name="msg_80f4283474" formatted="false">"A–Z ▾"</string>
+    <string name="msg_461d22517a" formatted="false">"Alphabetical"</string>
+    <string name="msg_b6730543a4" formatted="false">"Recently downloaded"</string>
+    <string name="msg_3b1ad01c36" formatted="false">"Title, artist or album"</string>
+    <string name="msg_a736131fb8" formatted="false">"Clear search"</string>
+    <string name="msg_ff824bdc8c" formatted="false">"All music"</string>
+    <string name="msg_777d93af15" formatted="false">"Artists"</string>
+    <string name="msg_0bd8ba7777" formatted="false">"Albums"</string>
+    <string name="msg_cfef7397a7" formatted="false">"Artists"</string>
+    <string name="msg_2a72282940" formatted="false">"Building collections…"</string>
+    <string name="msg_835f821d57" formatted="false">"Add music to see your collections."</string>
+    <string name="msg_9a4e6f0e95" formatted="false">"Selected: %1$s"</string>
+    <string name="msg_3657a98e37" formatted="false">"Deselect all"</string>
+    <string name="msg_bdda7682fb" formatted="false">"Select all"</string>
+    <string name="msg_0112107a24" formatted="false">"Opening folder…"</string>
+    <string name="msg_1e1b70b17c" formatted="false">"No results"</string>
+    <string name="msg_45afa3ed54" formatted="false">"No tracks yet"</string>
+    <string name="msg_ae9e43f1bb" formatted="false">"Select track"</string>
+    <string name="msg_b434c976d0" formatted="false">"%1$s · Local file"</string>
+    <string name="msg_495e0759b8" formatted="false">"tracks"</string>
+    <string name="msg_10de9d74b2" formatted="false">"track"</string>
+    <string name="msg_94e28a0a47" formatted="false">"tracks"</string>
+    <string name="msg_e5d706d611" formatted="false">"Unknown album"</string>
+    <string name="msg_699ec24ecb" formatted="false">"Select the folder containing this file again."</string>
+    <string name="msg_a1d61d40a7" formatted="false">"File unavailable."</string>
+    <string name="msg_426432a821" formatted="false">"Folders cannot be deleted."</string>
+    <string name="msg_0aed5dccb9" formatted="false">"This folder does not allow deletion."</string>
+    <string name="msg_3640790d67" formatted="false">"Could not read the file."</string>
+    <string name="msg_09ab712810" formatted="false">"Android could not delete the file."</string>
+    <string name="msg_819c006642" formatted="false">"%1$s: deletion not allowed. Tap the folder button and select the folder again."</string>
+    <string name="msg_799bd27248" formatted="false">"Deleted: %1$s of %2$s."</string>
+    <string name="msg_6b7dae6063" formatted="false">"\nTrack information will update when the folder is scanned."</string>
+    <string name="msg_83c837dcf9" formatted="false">"could not delete"</string>
+    <string name="msg_4144270885" formatted="false">"\nOther files not deleted: %1$s."</string>
+    <string name="msg_1bea3f70c7" formatted="false">"Could not connect to the player. Restart Muzerion."</string>
+    <string name="msg_33efa5c431" formatted="false">"Connection interrupted."</string>
+    <string name="msg_bab4cc4e1d" formatted="false">"Playback failed: %1$s"</string>
+    <string name="msg_980b47406c" formatted="false">"Could not save folder access. Select the folder again."</string>
+    <string name="msg_716e5371c7" formatted="false">"Cancel selection"</string>
+    <string name="msg_52cf8f51b4" formatted="false">"Delete selected tracks"</string>
+    <string name="msg_14a658ce61" formatted="false">"Choose folder"</string>
+    <string name="msg_cde0aeaa67" formatted="false">"Change folder"</string>
+    <string name="msg_4ae50d3073" formatted="false">"Close"</string>
+    <string name="msg_d46e28939b" formatted="false">"Start with your collection"</string>
+    <string name="msg_a07f883b38" formatted="false">"Choose a folder with MP3, FLAC and M4A files"</string>
+    <string name="msg_7cfa30e099" formatted="false">"The player is connecting. Try again in a moment."</string>
+    <string name="msg_7b4cc84722" formatted="false">"Tracks"</string>
+    <string name="msg_0ab1d5ba10" formatted="false">"Delete from device?"</string>
+    <string name="msg_8ff8c8f631" formatted="false">"Original files to delete: %1$s. This cannot be undone in Muzerion."</string>
+    <string name="msg_6e6bc6d47e" formatted="false">"And %1$s more"</string>
+    <string name="msg_64de3c18ac" formatted="false">"Delete files"</string>
+    <string name="msg_d49a9545fb" formatted="false">"Now playing"</string>
+    <string name="msg_59a416ade7" formatted="false">"Paused"</string>
+    <string name="msg_03498e395a" formatted="false">"Pause"</string>
+    <string name="msg_edf6515d2e" formatted="false">"Play"</string>
+    <string name="msg_32b74a3c47" formatted="false">"Untitled"</string>
+    <string name="msg_fbbc29b3e6" formatted="false">"Music is available, but the library could not be saved."</string>
+    <string name="msg_34b77fbd15" formatted="false">"Folder access lost. Select it again."</string>
+    <string name="msg_a469d23560" formatted="false">"Could not refresh the library."</string>
+    <string name="msg_2be5de6157" formatted="false">"Could not list files"</string>
+    <string name="msg_9b7b21b50e" formatted="false">"Enable PC connection first."</string>
+    <string name="msg_072b0b4738" formatted="false">"Connecting to PC…"</string>
+    <string name="msg_e64e219907" formatted="false">"PC connected. Choose music on your PC."</string>
+    <string name="msg_140a6eae85" formatted="false">"Could not connect to PC."</string>
+    <string name="msg_1fd6425a48" formatted="false">"Scan the QR code "</string>
+    <string name="msg_259b67a245" formatted="false">"in Muzerion on your PC"</string>
+    <string name="msg_279db93ad9" formatted="false">"Connecting…"</string>
+    <string name="msg_24acf7b07b" formatted="false">"Scan PC QR code"</string>
+    <string name="msg_f869f82f28" formatted="false">"This is not a Muzerion QR code."</string>
+    <string name="msg_c352343af9" formatted="false">"Invalid Muzerion QR code."</string>
+    <string name="msg_da2f0f1fdf" formatted="false">"A local network PC address is required."</string>
+    <string name="msg_64a290eb47" formatted="false">"Code expired. Open a new QR code on your PC."</string>
+    <string name="msg_2315e045ff" formatted="false">"PC unavailable. Check the address below the QR code "</string>
+    <string name="msg_c4cbf02b54" formatted="false">"and Windows Firewall."</string>
+    <string name="msg_24c50b508a" formatted="false">"PC is not responding. Check Wi-Fi, "</string>
+    <string name="msg_2dcbed089a" formatted="false">"the address below the QR code and Windows Firewall."</string>
+    <string name="msg_975d01b9b6" formatted="false">"Lavender"</string>
+    <string name="msg_0deebc3a96" formatted="false">"Blue"</string>
+    <string name="msg_891c5e9e76" formatted="false">"Mint"</string>
+    <string name="msg_6e9cd37707" formatted="false">"Pink"</string>
+    <string name="msg_71d3b1f5db" formatted="false">"Peach"</string>
+    <string name="msg_9161f968d5" formatted="false">"Turquoise"</string>
+    <string name="msg_861833e620" formatted="false">"Your music library"</string>
+    <string name="msg_7f17c7c62a" formatted="false">"Settings"</string>
+    <string name="msg_1392090686" formatted="false">"Updates"</string>
+    <string name="msg_26d14fe46f" formatted="false">"Architecture: %1$s"</string>
+    <string name="msg_b80940a8a7" formatted="false">"‹ Back"</string>
+    <string name="msg_799c76400d" formatted="false">"PC connection"</string>
+    <string name="msg_d206f1bed0" formatted="false">"Appearance"</string>
+    <string name="msg_8c89c0a42a" formatted="false">"Playback"</string>
+    <string name="msg_3bcc51963d" formatted="false">"Sound"</string>
+    <string name="msg_50a177527e" formatted="false">"Gestures &amp; feedback"</string>
+    <string name="msg_e30d45f46a" formatted="false">"Storage &amp; data"</string>
+    <string name="msg_b9c9ff652d" formatted="false">"About"</string>
+    <string name="msg_ed3f0e507a" formatted="false">"Language"</string>
+    <string name="msg_1ac01fecce" formatted="false">"System theme"</string>
+    <string name="msg_ec1c55d866" formatted="false">"Dark theme"</string>
+    <string name="msg_229580498f" formatted="false">"Monochrome"</string>
+    <string name="msg_b14cb8159e" formatted="false">"Player background"</string>
+    <string name="msg_a9058f7a2b" formatted="false">"Background visibility"</string>
+    <string name="msg_7ffc6bc408" formatted="false">"Solid color"</string>
+    <string name="msg_e366869833" formatted="false">"Vivid cover"</string>
+    <string name="msg_7a0b4fde1e" formatted="false">"Background blur"</string>
+    <string name="msg_e55c062393" formatted="false">"No blur"</string>
+    <string name="msg_3ccec2c327" formatted="false">"Maximum blur"</string>
+    <string name="msg_84b22ed2aa" formatted="false">"Color"</string>
+    <string name="msg_f4dcecb83f" formatted="false">"Close navigation menu"</string>
+    <string name="msg_478fa30563" formatted="false">"unknown"</string>
+    <string name="msg_ca31f27956" formatted="false">"64-bit"</string>
+    <string name="msg_912ae5210e" formatted="false">"32-bit"</string>
+    <string name="msg_06e58c86e6" formatted="false">"Muzerion PC connection"</string>
+    <string name="msg_4294c6f1ff" formatted="false">"Allow unrestricted battery use for Muzerion in connection settings first."</string>
+    <string name="msg_f9c28f5922" formatted="false">"Background transfer failed: %1$s"</string>
+    <string name="msg_3899758874" formatted="false">"Could not start the server."</string>
+    <string name="msg_15fa1bcda6" formatted="false">"Muzerion on PC"</string>
+    <string name="msg_922bec0c3c" formatted="false">"Music sharing is active"</string>
+    <string name="msg_d4f447c130" formatted="false">"Stop"</string>
+    <string name="msg_f13b597ddd" formatted="false">"Could not start sharing."</string>
+    <string name="msg_9608e80b6c" formatted="false">"Allow local network access."</string>
+    <string name="msg_6e4954413c" formatted="false">"Background activity is restricted. Allow unrestricted battery use for Muzerion."</string>
+    <string name="msg_a08934854c" formatted="false">"Starting…"</string>
+    <string name="msg_e6156da328" formatted="false">"Active"</string>
+    <string name="msg_8553494683" formatted="false">"Background activity allowed"</string>
+    <string name="msg_2071268d2d" formatted="false">"Allow background activity"</string>
+    <string name="msg_124298ec71" formatted="false">"Connect"</string>
+    <string name="msg_f95e0e9f6f" formatted="false">"Allow background activity &amp; connect"</string>
+    <string name="msg_3bf39e9711" formatted="false">"Allow background activity"</string>
+    <string name="msg_38450d04b4" formatted="false">"Open Muzerion settings manually."</string>
+    <string name="msg_85df8f7942" formatted="false">"App settings"</string>
+    <string name="msg_ca07a5d907" formatted="false">"Turn off Battery Saver while sharing music."</string>
+    <string name="msg_5709c036e1" formatted="false">"What’s new in %1$s"</string>
+    <string name="msg_ec416815d0" formatted="false">"October 30, 2026"</string>
+    <string name="msg_bf1c0565f3" formatted="false">"New icon"</string>
+    <string name="msg_cf931c1ed1" formatted="false">"A lavender M shaped like a sound wave."</string>
+    <string name="msg_27b3814126" formatted="false">"Method not supported"</string>
+    <string name="msg_0f224cc57e" formatted="false">"Open the full link shown in Muzerion on your phone."</string>
+    <string name="msg_b8a9604777" formatted="false">"Page not found"</string>
+    <string name="msg_f070401d4a" formatted="false">"File access denied. Check the selected folder in Muzerion."</string>
+    <string name="msg_edcfe025bf" formatted="false">"Could not process the request."</string>
+    <string name="msg_726226201e" formatted="false">"Cover not found"</string>
+    <string name="msg_072ef7bcba" formatted="false">"Track not found"</string>
+    <string name="msg_83f5f2dee8" formatted="false">"Could not open track"</string>
+    <string name="msg_28158028e1" formatted="false">"Requested file range unavailable"</string>
+    <string name="msg_054256fed9" formatted="false">"Unexpected end of file"</string>
+    <string name="msg_809205c551" formatted="false">"Choose a music folder in Muzerion on your phone."</string>
+    <string name="msg_e820e8426e" formatted="false">"Wait for the library to refresh on your phone."</string>
+    <string name="msg_ff74edc85e" formatted="false">"Library is refreshing. Please wait."</string>
+    <string name="msg_921fe6d827" formatted="false">"Connect your phone to Wi-Fi and try again."</string>
+    <string name="msg_376c1487e3" formatted="false">"Local network access is not allowed."</string>
+    <string name="msg_d65cdc5a7d" formatted="false">"Allow local network access to connect to your PC."</string>
+    <string name="msg_577f71f48f" formatted="false">"Please wait…"</string>
+    <string name="msg_15d20423bd" formatted="false">"Or open the full link on your PC:"</string>
+    <string name="msg_aec93b16ba" formatted="false">"Queue"</string>
+    <string name="msg_6337af1839" formatted="false">"%1$s upcoming"</string>
+    <string name="msg_7e006cbdfe" formatted="false">"Shuffle order"</string>
+    <string name="msg_aac420e073" formatted="false">"Playback order"</string>
+    <string name="msg_9a191a5aa5" formatted="false">"Hold ≡ to reorder"</string>
+    <string name="msg_366d374ab0" formatted="false">"Hide history"</string>
+    <string name="msg_d1d92e48e7" formatted="false">"History · %1$s"</string>
+    <string name="msg_6e1a1d08e3" formatted="false">"Queue is empty"</string>
+    <string name="msg_0a110db57a" formatted="false">"Current track"</string>
+    <string name="msg_e2064b04cf" formatted="false">"In history"</string>
+    <string name="msg_6c554541fc" formatted="false">"Up next · %1$s"</string>
+    <string name="msg_a76d166649" formatted="false">"Queue track actions"</string>
+    <string name="msg_870427fc5c" formatted="false">"Play next"</string>
+    <string name="msg_17e44239e9" formatted="false">"Move up"</string>
+    <string name="msg_e0f1717450" formatted="false">"Move down"</string>
+    <string name="msg_f98ccec353" formatted="false">"Remove from queue"</string>
+    <string name="msg_40faba460d" formatted="false">"Reorder track"</string>
+    <string name="msg_007be3a0e3" formatted="false">"Speed &amp; pitch"</string>
+    <string name="msg_061828d17c" formatted="false">"Link speed and pitch"</string>
+    <string name="msg_09625bf08f" formatted="false">"Speed"</string>
+    <string name="msg_6fe10e81a9" formatted="false">"Pitch"</string>
+    <string name="msg_ca5418b910" formatted="false">"%+.1f st"</string>
+    <string name="msg_cf775143a8" formatted="false">"Player is connecting. Settings will be available shortly."</string>
+    <string name="msg_590b94553f" formatted="false">"Collapse player"</string>
+    <string name="msg_2022790464" formatted="false">"Current track menu"</string>
+    <string name="msg_cc52f76563" formatted="false">"File information"</string>
+    <string name="msg_8e1abb9475" formatted="false">"Previous track"</string>
+    <string name="msg_c97fa8b29b" formatted="false">"Next track"</string>
+    <string name="msg_d576eef442" formatted="false">"Shuffle"</string>
+    <string name="msg_f86e2732ad" formatted="false">"Seek"</string>
+    <string name="msg_94b8df93b6" formatted="false">"File"</string>
+    <string name="msg_2c5e7a631b" formatted="false">"Artist"</string>
+    <string name="msg_065996461c" formatted="false">"Album"</string>
+    <string name="msg_b9563c38ab" formatted="false">"Format"</string>
+    <string name="msg_98713e8814" formatted="false">"Size"</string>
+    <string name="msg_b29bbe573e" formatted="false">"%1$s (%2$s bytes)"</string>
+    <string name="msg_d4168ace06" formatted="false">"Duration"</string>
+    <string name="msg_440e2b5d80" formatted="false">"Modified"</string>
+    <string name="msg_fb95691afc" formatted="false">"Album artist"</string>
+    <string name="msg_aa8ab25302" formatted="false">"Genre"</string>
+    <string name="msg_03f8541f9a" formatted="false">"Year"</string>
+    <string name="msg_751a849393" formatted="false">"Track number"</string>
+    <string name="msg_ca040760a3" formatted="false">"Disc"</string>
+    <string name="msg_a139f9dd60" formatted="false">"Composer"</string>
+    <string name="msg_3cd9eac36d" formatted="false">"Audio codec"</string>
+    <string name="msg_4744b7836e" formatted="false">"Sample rate"</string>
+    <string name="msg_88a8ecd3ff" formatted="false">"Channels"</string>
+    <string name="msg_f656827bd7" formatted="false">"1 · mono"</string>
+    <string name="msg_18c6e97c9a" formatted="false">"2 · stereo"</string>
+    <string name="msg_09c9e2a0ac" formatted="false">"Bit depth"</string>
+    <string name="msg_797f36ff09" formatted="false">"%1$s bit"</string>
+    <string name="msg_5103b115af" formatted="false">"Bitrate"</string>
+    <string name="msg_febbdfd633" formatted="false">"%1$s kbps"</string>
+    <string name="msg_0059731b2f" formatted="false">"Average bitrate (estimated)"</string>
+    <string name="msg_5deb6157b8" formatted="false">"≈ %1$s kbps"</string>
+    <string name="msg_021a51a1ea" formatted="false">"Location / URI"</string>
+    <string name="msg_b9e1af6690" formatted="false">"Could not open the original file. Showing saved information."</string>
+    <string name="msg_81a4b6506a" formatted="false">"Flat"</string>
+    <string name="msg_352cca4bf9" formatted="false">"Bass boost"</string>
+    <string name="msg_0eb1e88009" formatted="false">"Bass reduction"</string>
+    <string name="msg_746462fa42" formatted="false">"Brighter"</string>
+    <string name="msg_2e62a3d4d6" formatted="false">"Softer"</string>
+    <string name="msg_5c41492dce" formatted="false">"Vocals"</string>
+    <string name="msg_0229b82fcb" formatted="false">"Rock"</string>
+    <string name="msg_62f83b983b" formatted="false">"Pop"</string>
+    <string name="msg_130ffde592" formatted="false">"Jazz"</string>
+    <string name="msg_e55d152fd6" formatted="false">"Electronic"</string>
+    <string name="msg_218bfeb257" formatted="false">"Music from your phone"</string>
+    <string name="msg_27bccafb77" formatted="false">"Connecting…"</string>
+    <string name="msg_b781342279" formatted="false">"Title or artist"</string>
+    <string name="msg_536a8d45bd" formatted="false">"Search music"</string>
+    <string name="msg_ed030118aa" formatted="false">"Sort order"</string>
+    <string name="msg_6fb5cb3976" formatted="false">"Newest first"</string>
+    <string name="msg_05a491ff62" formatted="false">"Music player"</string>
+    <string name="msg_53eb25337a" formatted="false">"Tap Play below."</string>
+    <string name="msg_8bba719cd9" formatted="false">"Could not play this track. Check your phone connection."</string>
+    <string name="msg_e7c745ab26" formatted="false">"Local file"</string>
+    <string name="msg_70c4bdc4e1" formatted="false">"Loading track…"</string>
+    <string name="msg_ea6a699a40" formatted="false">"No tracks in the library yet"</string>
+    <string name="msg_dfd6eb45ef" formatted="false">" · Local file"</string>
+    <string name="msg_e0ecc3666b" formatted="false">"Found: "</string>
+    <string name="msg_a31f392414" formatted="false">"Link expired. Open a new link from your phone."</string>
+    <string name="msg_8828a88273" formatted="false">"Your phone could not send the library."</string>
+    <string name="msg_c1cb4dde1f" formatted="false">"Refreshing library…"</string>
+    <string name="msg_36041e8a0d" formatted="false">"Phone is not responding. Check Wi-Fi and Muzerion."</string>
+    <string name="msg_e77d1ab0d0" formatted="false">"Phone connection lost."</string>
+    <string name="msg_92fd82aae5" formatted="false">"Buffering…"</string>
+    <string name="msg_10f6115072" formatted="false">"Seeking…"</string>
+    <string name="msg_8ef2b3bd1a" formatted="false">"End of queue"</string>
+    <string name="msg_a78ed42cdb" formatted="false">"Your browser could not play this file. Try another track; the codec may be unsupported."</string>
+    <string name="msg_1f0c00373c" formatted="false">"Could not stream audio from your phone. Check the connection and reopen the track."</string>
+    <string name="msg_923f972900" formatted="false">" B"</string>
+    <string name="msg_6d6781f955" formatted="false">"KB"</string>
+    <string name="msg_6eaae42a31" formatted="false">"MB"</string>
+    <string name="msg_e872c7ba83" formatted="false">"GB"</string>
+    <string name="msg_d87632b1f9" formatted="false">"TB"</string>
+    <string name="msg_2ffd5f8f5f" formatted="false">"Russian and English"</string>
+    <string name="msg_a93ae8ffcf" formatted="false">"Choose your language in Settings. English is the default on first launch."</string>
+    <plurals name="track_count">
+        <item quantity="one">%d track</item>
+        <item quantity="other">%d tracks</item>
+    </plurals>
+    <string name="msg_d2b1c49a1d" formatted="false">"Slowed"</string>
+    <string name="msg_4cc6290561" formatted="false">"Normal"</string>
+    <string name="msg_5ac0bcf0e3" formatted="false">"Speed up"</string>
+    <string name="msg_8b7138bc77" formatted="false">"0.50×"</string>
+    <string name="msg_20f75ce6c7" formatted="false">"2.00×"</string>
+</resources>

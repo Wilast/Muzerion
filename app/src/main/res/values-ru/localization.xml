@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_2453e775fb" formatted="false">"Файл слишком большой"</string>
+    <string name="msg_2579d3eb91" formatted="false">"Это не резервная копия настроек Muzerion"</string>
+    <string name="msg_3334b9b7a4" formatted="false">"Неизвестная настройка: %1$s"</string>
+    <string name="msg_42a1e6c35f" formatted="false">"Неизвестный исполнитель"</string>
+    <string name="msg_ae08c44ddc" formatted="false">"Не удалось подготовить плеер"</string>
+    <string name="msg_8005fc4871" formatted="false">"Эквалайзер"</string>
+    <string name="msg_398c7d4f7b" formatted="false">"Готово"</string>
+    <string name="msg_6eb7540d7c" formatted="false">"Выключен"</string>
+    <string name="msg_5a10389801" formatted="false">"Включить эквалайзер"</string>
+    <string name="msg_ade34d9483" formatted="false">"32 Гц — 16 кГц"</string>
+    <string name="msg_b3b20a8a08" formatted="false">"Мои настройки"</string>
+    <string name="msg_f88c984afe" formatted="false">"Предусиление"</string>
+    <string name="msg_1a76051700" formatted="false">"Автоуровень"</string>
+    <string name="msg_6ff4f02e0a" formatted="false">"Защита от перегруза звука"</string>
+    <string name="msg_fbb31625b0" formatted="false">"Сохранить свой"</string>
+    <string name="msg_058f162d29" formatted="false">"Сбросить"</string>
+    <string name="msg_4068df48cc" formatted="false">"Мои пресеты"</string>
+    <string name="msg_6f38f84d8d" formatted="false">"Удалить пресет %1$s"</string>
+    <string name="msg_1e2763caf0" formatted="false">"Свой пресет"</string>
+    <string name="msg_3de49828e8" formatted="false">"Название"</string>
+    <string name="msg_629b745c61" formatted="false">"Введи название"</string>
+    <string name="msg_4d03d8b7d4" formatted="false">"Выбери другое название"</string>
+    <string name="msg_1fe95be246" formatted="false">"Можно сохранить до 50 пресетов"</string>
+    <string name="msg_d772cc53be" formatted="false">"Заменить"</string>
+    <string name="msg_4864057d62" formatted="false">"Сохранить"</string>
+    <string name="msg_0ec753be8d" formatted="false">"Отмена"</string>
+    <string name="msg_ae3a08e626" formatted="false">"Удалить «%1$s»?"</string>
+    <string name="msg_86ea33aef5" formatted="false">"Удалить"</string>
+    <string name="msg_18c284ac29" formatted="false">"%+.1f дБ"</string>
+    <string name="msg_1217534f2f" formatted="false">"%1$s Гц"</string>
+    <string name="msg_b1e23e1ff0" formatted="false">"Размер текста"</string>
+    <string name="msg_4f30c70379" formatted="false">"Компактный список"</string>
+    <string name="msg_6615431ca4" formatted="false">"Обложки в списке"</string>
+    <string name="msg_1280fefc1a" formatted="false">"Запоминать место остановки"</string>
+    <string name="msg_c000ede895" formatted="false">"Продолжать при подключении наушников"</string>
+    <string name="msg_f0a95a2bcb" formatted="false">"Кнопка «Назад» возвращает к началу"</string>
+    <string name="msg_f676c627fb" formatted="false">"Если трек играет дольше 3 секунд"</string>
+    <string name="msg_4fec828bcb" formatted="false">"Переключать обложку свайпом"</string>
+    <string name="msg_65d9a27202" formatted="false">"Смахивать плеер вниз"</string>
+    <string name="msg_836030b4bd" formatted="false">"Вибрация при действиях"</string>
+    <string name="msg_b18c5c05ce" formatted="false">"Папка добавлена"</string>
+    <string name="msg_3758c6338c" formatted="false">"Не удалось получить доступ к папке"</string>
+    <string name="msg_ae22420fc1" formatted="false">"Музыкальные папки"</string>
+    <string name="msg_0bbf909d7a" formatted="false">"Вложенные папки не включаются"</string>
+    <string name="msg_66984540a1" formatted="false">"Основная папка"</string>
+    <string name="msg_585b38ac20" formatted="false">"Добавить папку"</string>
+    <string name="msg_2c7295c565" formatted="false">"Автообновление библиотеки"</string>
+    <string name="msg_2d5ba1ca0f" formatted="false">"Скрывать записи короче 30 секунд"</string>
+    <string name="msg_8b44c6b425" formatted="false">"Названия из имён файлов"</string>
+    <string name="msg_fabe7ed7c2" formatted="false">"Нет доступа"</string>
+    <string name="msg_bd6392e026" formatted="false">"Копия сохранена"</string>
+    <string name="msg_b1980f4b88" formatted="false">"Не удалось сохранить копию"</string>
+    <string name="msg_9de070e4dd" formatted="false">"Настройки восстановлены"</string>
+    <string name="msg_8a6ab1131e" formatted="false">"Не удалось открыть копию настроек"</string>
+    <string name="msg_6b5363eebf" formatted="false">"Кэш обложек: %1$s"</string>
+    <string name="msg_2ac5e3f865" formatted="false">"Очистить кэш обложек"</string>
+    <string name="msg_86ec702586" formatted="false">"Очистить обложки?"</string>
+    <string name="msg_2dc29a49f0" formatted="false">"Музыка останется на устройстве."</string>
+    <string name="msg_69969d27fa" formatted="false">"Кэш обложек очищен"</string>
+    <string name="msg_98b2073ed1" formatted="false">"Очистить"</string>
+    <string name="msg_72f931bda2" formatted="false">"Резервная копия"</string>
+    <string name="msg_c29822ec54" formatted="false">"Только настройки, без музыки"</string>
+    <string name="msg_87ae19737e" formatted="false">"Сохранить настройки"</string>
+    <string name="msg_7e2c00e93f" formatted="false">"Восстановить настройки"</string>
+    <string name="msg_7c379e8e5c" formatted="false">"Отчёт сохранён"</string>
+    <string name="msg_8ff44cc92f" formatted="false">"Не удалось сохранить отчёт"</string>
+    <string name="msg_7b55599e7a" formatted="false">"Что нового"</string>
+    <string name="msg_f069478e29" formatted="false">"Сохранить отчёт об ошибке"</string>
+    <string name="msg_7f8368a9ad" formatted="false">"Модель телефона и настройки. Без музыки и названий треков."</string>
+    <string name="msg_b6685882b1" formatted="false">"Лицензии библиотек"</string>
+    <string name="msg_f9bf7b2387" formatted="false">"AndroidX Compose и Media3 · Apache 2.0"</string>
+    <string name="msg_c77857d3a9" formatted="false">"Kotlin и kotlinx.coroutines · Apache 2.0"</string>
+    <string name="msg_9a22bf0126" formatted="false">"Назад к подборкам"</string>
+    <string name="msg_2525af6b13" formatted="false">"Библиотека"</string>
+    <string name="msg_630d41adb3" formatted="false">"Мои плейлисты"</string>
+    <string name="msg_6433b522a1" formatted="false">"Поиск"</string>
+    <string name="msg_454c899601" formatted="false">"Сначала новые ▾"</string>
+    <string name="msg_80f4283474" formatted="false">"А–Я ▾"</string>
+    <string name="msg_461d22517a" formatted="false">"По алфавиту"</string>
+    <string name="msg_b6730543a4" formatted="false">"Последние скачанные"</string>
+    <string name="msg_3b1ad01c36" formatted="false">"Название, исполнитель или альбом"</string>
+    <string name="msg_a736131fb8" formatted="false">"Очистить поиск"</string>
+    <string name="msg_ff824bdc8c" formatted="false">"Вся музыка"</string>
+    <string name="msg_777d93af15" formatted="false">"Артисты"</string>
+    <string name="msg_0bd8ba7777" formatted="false">"Альбомы"</string>
+    <string name="msg_cfef7397a7" formatted="false">"Исполнители"</string>
+    <string name="msg_2a72282940" formatted="false">"Собираем подборки…"</string>
+    <string name="msg_835f821d57" formatted="false">"Подборки появятся после добавления музыки."</string>
+    <string name="msg_9a4e6f0e95" formatted="false">"Выбрано: %1$s"</string>
+    <string name="msg_3657a98e37" formatted="false">"Снять все"</string>
+    <string name="msg_bdda7682fb" formatted="false">"Выбрать все"</string>
+    <string name="msg_0112107a24" formatted="false">"Открываем папку…"</string>
+    <string name="msg_1e1b70b17c" formatted="false">"Ничего не найдено"</string>
+    <string name="msg_45afa3ed54" formatted="false">"Здесь пока нет треков"</string>
+    <string name="msg_ae9e43f1bb" formatted="false">"Выбрать трек"</string>
+    <string name="msg_b434c976d0" formatted="false">"%1$s · Локальный файл"</string>
+    <string name="msg_495e0759b8" formatted="false">"треков"</string>
+    <string name="msg_10de9d74b2" formatted="false">"трек"</string>
+    <string name="msg_94e28a0a47" formatted="false">"трека"</string>
+    <string name="msg_e5d706d611" formatted="false">"Без альбома"</string>
+    <string name="msg_699ec24ecb" formatted="false">"Выбери папку с этим файлом заново."</string>
+    <string name="msg_a1d61d40a7" formatted="false">"Файл недоступен."</string>
+    <string name="msg_426432a821" formatted="false">"Удаление папок запрещено."</string>
+    <string name="msg_0aed5dccb9" formatted="false">"Папка не разрешает удаление."</string>
+    <string name="msg_3640790d67" formatted="false">"Не удалось прочитать файл."</string>
+    <string name="msg_09ab712810" formatted="false">"Android не удалил файл."</string>
+    <string name="msg_819c006642" formatted="false">"%1$s: нет доступа к удалению. Нажми «Сменить папку» и выбери её заново."</string>
+    <string name="msg_799bd27248" formatted="false">"Удалено: %1$s из %2$s."</string>
+    <string name="msg_6b7dae6063" formatted="false">"\nМетаданные обновятся после сканирования папки."</string>
+    <string name="msg_83c837dcf9" formatted="false">"не удалось удалить"</string>
+    <string name="msg_4144270885" formatted="false">"\nНе удалено ещё: %1$s."</string>
+    <string name="msg_1bea3f70c7" formatted="false">"Не удалось подключиться к плееру. Перезапусти Muzerion."</string>
+    <string name="msg_33efa5c431" formatted="false">"Подключение прервано."</string>
+    <string name="msg_bab4cc4e1d" formatted="false">"Не удалось воспроизвести: %1$s"</string>
+    <string name="msg_980b47406c" formatted="false">"Не удалось сохранить доступ. Выбери папку ещё раз."</string>
+    <string name="msg_716e5371c7" formatted="false">"Отменить выбор"</string>
+    <string name="msg_52cf8f51b4" formatted="false">"Удалить выбранные треки"</string>
+    <string name="msg_14a658ce61" formatted="false">"Выбрать папку"</string>
+    <string name="msg_cde0aeaa67" formatted="false">"Сменить папку"</string>
+    <string name="msg_4ae50d3073" formatted="false">"Закрыть"</string>
+    <string name="msg_d46e28939b" formatted="false">"Начнём с твоей коллекции"</string>
+    <string name="msg_a07f883b38" formatted="false">"Выбери папку с MP3, FLAC и M4A"</string>
+    <string name="msg_7cfa30e099" formatted="false">"Плеер ещё подключается. Попробуй через мгновение."</string>
+    <string name="msg_7b4cc84722" formatted="false">"Треки"</string>
+    <string name="msg_0ab1d5ba10" formatted="false">"Удалить с устройства?"</string>
+    <string name="msg_8ff8c8f631" formatted="false">"Будут удалены исходные файлы: %1$s. Восстановить их через Muzerion нельзя."</string>
+    <string name="msg_6e6bc6d47e" formatted="false">"И ещё %1$s"</string>
+    <string name="msg_64de3c18ac" formatted="false">"Удалить файлы"</string>
+    <string name="msg_d49a9545fb" formatted="false">"Сейчас играет"</string>
+    <string name="msg_59a416ade7" formatted="false">"На паузе"</string>
+    <string name="msg_03498e395a" formatted="false">"Пауза"</string>
+    <string name="msg_edf6515d2e" formatted="false">"Воспроизвести"</string>
+    <string name="msg_32b74a3c47" formatted="false">"Без названия"</string>
+    <string name="msg_fbbc29b3e6" formatted="false">"Музыка доступна, но сохранить библиотеку не удалось."</string>
+    <string name="msg_34b77fbd15" formatted="false">"Нет доступа к папке. Выбери её заново."</string>
+    <string name="msg_a469d23560" formatted="false">"Не удалось обновить библиотеку."</string>
+    <string name="msg_2be5de6157" formatted="false">"Не удалось получить список файлов"</string>
+    <string name="msg_9b7b21b50e" formatted="false">"Сначала включи подключение к ПК."</string>
+    <string name="msg_072b0b4738" formatted="false">"Подключаем компьютер…"</string>
+    <string name="msg_e64e219907" formatted="false">"Компьютер подключён. Выбирай музыку на ПК."</string>
+    <string name="msg_140a6eae85" formatted="false">"Не удалось подключиться к ПК."</string>
+    <string name="msg_1fd6425a48" formatted="false">"Наведи камеру на QR-код "</string>
+    <string name="msg_259b67a245" formatted="false">"в Muzerion на компьютере"</string>
+    <string name="msg_279db93ad9" formatted="false">"Подключаем…"</string>
+    <string name="msg_24acf7b07b" formatted="false">"Сканировать QR на ПК"</string>
+    <string name="msg_f869f82f28" formatted="false">"Это не QR-код Muzerion."</string>
+    <string name="msg_c352343af9" formatted="false">"Некорректный QR-код Muzerion."</string>
+    <string name="msg_da2f0f1fdf" formatted="false">"Нужен адрес ПК в локальной сети."</string>
+    <string name="msg_64a290eb47" formatted="false">"Код истёк. Открой новый QR-код на ПК."</string>
+    <string name="msg_2315e045ff" formatted="false">"ПК недоступен. Проверь адрес под QR-кодом "</string>
+    <string name="msg_c4cbf02b54" formatted="false">"и брандмауэр Windows."</string>
+    <string name="msg_24c50b508a" formatted="false">"ПК не отвечает. Проверь Wi-Fi, "</string>
+    <string name="msg_2dcbed089a" formatted="false">"адрес под QR-кодом и брандмауэр Windows."</string>
+    <string name="msg_975d01b9b6" formatted="false">"Лавандовый"</string>
+    <string name="msg_0deebc3a96" formatted="false">"Голубой"</string>
+    <string name="msg_891c5e9e76" formatted="false">"Мятный"</string>
+    <string name="msg_6e9cd37707" formatted="false">"Розовый"</string>
+    <string name="msg_71d3b1f5db" formatted="false">"Персиковый"</string>
+    <string name="msg_9161f968d5" formatted="false">"Бирюзовый"</string>
+    <string name="msg_861833e620" formatted="false">"Твоя музыкальная библиотека"</string>
+    <string name="msg_7f17c7c62a" formatted="false">"Настройки"</string>
+    <string name="msg_1392090686" formatted="false">"Обновления"</string>
+    <string name="msg_26d14fe46f" formatted="false">"Архитектура: %1$s"</string>
+    <string name="msg_b80940a8a7" formatted="false">"‹ Назад"</string>
+    <string name="msg_799c76400d" formatted="false">"Связь с компьютером"</string>
+    <string name="msg_d206f1bed0" formatted="false">"Оформление"</string>
+    <string name="msg_8c89c0a42a" formatted="false">"Воспроизведение"</string>
+    <string name="msg_3bcc51963d" formatted="false">"Звук"</string>
+    <string name="msg_50a177527e" formatted="false">"Жесты и отклик"</string>
+    <string name="msg_e30d45f46a" formatted="false">"Хранилище и данные"</string>
+    <string name="msg_b9c9ff652d" formatted="false">"О приложении"</string>
+    <string name="msg_ed3f0e507a" formatted="false">"Язык"</string>
+    <string name="msg_1ac01fecce" formatted="false">"Системная тема"</string>
+    <string name="msg_ec1c55d866" formatted="false">"Тёмная тема"</string>
+    <string name="msg_229580498f" formatted="false">"Без цветных акцентов"</string>
+    <string name="msg_b14cb8159e" formatted="false">"Фон большого плеера"</string>
+    <string name="msg_a9058f7a2b" formatted="false">"Заметность фона"</string>
+    <string name="msg_7ffc6bc408" formatted="false">"Однотонный"</string>
+    <string name="msg_e366869833" formatted="false">"Яркая обложка"</string>
+    <string name="msg_7a0b4fde1e" formatted="false">"Размытие фона"</string>
+    <string name="msg_e55c062393" formatted="false">"Без размытия"</string>
+    <string name="msg_3ccec2c327" formatted="false">"Сильное размытие"</string>
+    <string name="msg_84b22ed2aa" formatted="false">"Цвет"</string>
+    <string name="msg_f4dcecb83f" formatted="false">"Закрыть боковое меню"</string>
+    <string name="msg_478fa30563" formatted="false">"неизвестно"</string>
+    <string name="msg_ca31f27956" formatted="false">"64 бита"</string>
+    <string name="msg_912ae5210e" formatted="false">"32 бита"</string>
+    <string name="msg_06e58c86e6" formatted="false">"Подключение Muzerion к ПК"</string>
+    <string name="msg_4294c6f1ff" formatted="false">"Сначала разреши Muzerion работу без оптимизации батареи в панели подключения."</string>
+    <string name="msg_f9c28f5922" formatted="false">"Ошибка фоновой передачи: %1$s"</string>
+    <string name="msg_3899758874" formatted="false">"Не удалось запустить сервер."</string>
+    <string name="msg_15fa1bcda6" formatted="false">"Muzerion на ПК"</string>
+    <string name="msg_922bec0c3c" formatted="false">"Сервер передачи музыки включён"</string>
+    <string name="msg_d4f447c130" formatted="false">"Остановить"</string>
+    <string name="msg_f13b597ddd" formatted="false">"Не удалось запустить передачу."</string>
+    <string name="msg_9608e80b6c" formatted="false">"Разреши доступ к локальной сети."</string>
+    <string name="msg_6e4954413c" formatted="false">"Фоновая работа не разрешена. Выбери для Muzerion режим без ограничений батареи."</string>
+    <string name="msg_a08934854c" formatted="false">"Запуск…"</string>
+    <string name="msg_e6156da328" formatted="false">"Работает"</string>
+    <string name="msg_8553494683" formatted="false">"Работа в фоне разрешена"</string>
+    <string name="msg_2071268d2d" formatted="false">"Разреши работу в фоне"</string>
+    <string name="msg_124298ec71" formatted="false">"Подключить"</string>
+    <string name="msg_f95e0e9f6f" formatted="false">"Разрешить фон и подключить"</string>
+    <string name="msg_3bf39e9711" formatted="false">"Разрешить работу в фоне"</string>
+    <string name="msg_38450d04b4" formatted="false">"Открой настройки Muzerion вручную."</string>
+    <string name="msg_85df8f7942" formatted="false">"Настройки приложения"</string>
+    <string name="msg_ca07a5d907" formatted="false">"Выключи энергосбережение телефона на время передачи музыки."</string>
+    <string name="msg_5709c036e1" formatted="false">"Что нового в %1$s"</string>
+    <string name="msg_ec416815d0" formatted="false">"30 октября 2026"</string>
+    <string name="msg_bf1c0565f3" formatted="false">"Новая иконка"</string>
+    <string name="msg_cf931c1ed1" formatted="false">"Лавандовая буква M в форме звуковой волны."</string>
+    <string name="msg_27b3814126" formatted="false">"Метод не поддерживается"</string>
+    <string name="msg_0f224cc57e" formatted="false">"Открой полную ссылку, показанную в Muzerion на телефоне."</string>
+    <string name="msg_b8a9604777" formatted="false">"Страница не найдена"</string>
+    <string name="msg_f070401d4a" formatted="false">"Нет доступа к файлу. Проверь выбранную папку в Muzerion."</string>
+    <string name="msg_edcfe025bf" formatted="false">"Не удалось обработать запрос."</string>
+    <string name="msg_726226201e" formatted="false">"Обложка не найдена"</string>
+    <string name="msg_072ef7bcba" formatted="false">"Трек не найден"</string>
+    <string name="msg_83f5f2dee8" formatted="false">"Не удалось открыть трек"</string>
+    <string name="msg_28158028e1" formatted="false">"Запрошенный участок файла недоступен"</string>
+    <string name="msg_054256fed9" formatted="false">"Неожиданный конец файла"</string>
+    <string name="msg_809205c551" formatted="false">"Выбери папку с музыкой в Muzerion на телефоне."</string>
+    <string name="msg_e820e8426e" formatted="false">"Дождись обновления библиотеки на телефоне."</string>
+    <string name="msg_ff74edc85e" formatted="false">"Библиотека обновляется. Подожди немного."</string>
+    <string name="msg_921fe6d827" formatted="false">"Подключи телефон к Wi-Fi и попробуй снова."</string>
+    <string name="msg_376c1487e3" formatted="false">"Нет разрешения на доступ к локальной сети."</string>
+    <string name="msg_d65cdc5a7d" formatted="false">"Для подключения ПК разреши доступ к локальной сети."</string>
+    <string name="msg_577f71f48f" formatted="false">"Подожди…"</string>
+    <string name="msg_15d20423bd" formatted="false">"Или открой полную ссылку на компьютере:"</string>
+    <string name="msg_aec93b16ba" formatted="false">"Очередь"</string>
+    <string name="msg_6337af1839" formatted="false">"%1$s далее"</string>
+    <string name="msg_7e006cbdfe" formatted="false">"Порядок перемешивания"</string>
+    <string name="msg_aac420e073" formatted="false">"Порядок воспроизведения"</string>
+    <string name="msg_9a191a5aa5" formatted="false">"Удерживай ≡, чтобы изменить порядок"</string>
+    <string name="msg_366d374ab0" formatted="false">"Скрыть прослушанные"</string>
+    <string name="msg_d1d92e48e7" formatted="false">"Прослушанные · %1$s"</string>
+    <string name="msg_6e1a1d08e3" formatted="false">"Очередь пуста"</string>
+    <string name="msg_0a110db57a" formatted="false">"Текущий трек"</string>
+    <string name="msg_e2064b04cf" formatted="false">"В истории"</string>
+    <string name="msg_6c554541fc" formatted="false">"Далее · %1$s"</string>
+    <string name="msg_a76d166649" formatted="false">"Действия с треком в очереди"</string>
+    <string name="msg_870427fc5c" formatted="false">"Играть следующим"</string>
+    <string name="msg_17e44239e9" formatted="false">"Выше"</string>
+    <string name="msg_e0f1717450" formatted="false">"Ниже"</string>
+    <string name="msg_f98ccec353" formatted="false">"Удалить из очереди"</string>
+    <string name="msg_40faba460d" formatted="false">"Переместить трек в очереди"</string>
+    <string name="msg_007be3a0e3" formatted="false">"Скорость и тональность"</string>
+    <string name="msg_061828d17c" formatted="false">"Связать скорость и тональность"</string>
+    <string name="msg_09625bf08f" formatted="false">"Скорость"</string>
+    <string name="msg_6fe10e81a9" formatted="false">"Тональность"</string>
+    <string name="msg_ca5418b910" formatted="false">"%+.1f пт"</string>
+    <string name="msg_cf775143a8" formatted="false">"Плеер подключается. Настройки скоро станут доступны."</string>
+    <string name="msg_590b94553f" formatted="false">"Свернуть плеер"</string>
+    <string name="msg_2022790464" formatted="false">"Меню текущего трека"</string>
+    <string name="msg_cc52f76563" formatted="false">"Информация о файле"</string>
+    <string name="msg_8e1abb9475" formatted="false">"Предыдущий трек"</string>
+    <string name="msg_c97fa8b29b" formatted="false">"Следующий трек"</string>
+    <string name="msg_d576eef442" formatted="false">"Перемешивание"</string>
+    <string name="msg_f86e2732ad" formatted="false">"Перемотка трека"</string>
+    <string name="msg_94b8df93b6" formatted="false">"Файл"</string>
+    <string name="msg_2c5e7a631b" formatted="false">"Исполнитель"</string>
+    <string name="msg_065996461c" formatted="false">"Альбом"</string>
+    <string name="msg_b9563c38ab" formatted="false">"Формат"</string>
+    <string name="msg_98713e8814" formatted="false">"Размер"</string>
+    <string name="msg_b29bbe573e" formatted="false">"%1$s (%2$s байт)"</string>
+    <string name="msg_d4168ace06" formatted="false">"Длительность"</string>
+    <string name="msg_440e2b5d80" formatted="false">"Изменён"</string>
+    <string name="msg_fb95691afc" formatted="false">"Исполнитель альбома"</string>
+    <string name="msg_aa8ab25302" formatted="false">"Жанр"</string>
+    <string name="msg_03f8541f9a" formatted="false">"Год"</string>
+    <string name="msg_751a849393" formatted="false">"Номер трека"</string>
+    <string name="msg_ca040760a3" formatted="false">"Диск"</string>
+    <string name="msg_a139f9dd60" formatted="false">"Композитор"</string>
+    <string name="msg_3cd9eac36d" formatted="false">"Аудиокодек"</string>
+    <string name="msg_4744b7836e" formatted="false">"Частота дискретизации"</string>
+    <string name="msg_88a8ecd3ff" formatted="false">"Каналы"</string>
+    <string name="msg_f656827bd7" formatted="false">"1 · моно"</string>
+    <string name="msg_18c6e97c9a" formatted="false">"2 · стерео"</string>
+    <string name="msg_09c9e2a0ac" formatted="false">"Разрядность"</string>
+    <string name="msg_797f36ff09" formatted="false">"%1$s бит"</string>
+    <string name="msg_5103b115af" formatted="false">"Битрейт"</string>
+    <string name="msg_febbdfd633" formatted="false">"%1$s кбит/с"</string>
+    <string name="msg_0059731b2f" formatted="false">"Средний битрейт (оценка по размеру)"</string>
+    <string name="msg_5deb6157b8" formatted="false">"≈ %1$s кбит/с"</string>
+    <string name="msg_021a51a1ea" formatted="false">"Расположение / URI"</string>
+    <string name="msg_b9e1af6690" formatted="false">"Не удалось открыть исходный файл. Показаны сохранённые сведения."</string>
+    <string name="msg_81a4b6506a" formatted="false">"Ровно"</string>
+    <string name="msg_352cca4bf9" formatted="false">"Больше баса"</string>
+    <string name="msg_0eb1e88009" formatted="false">"Меньше баса"</string>
+    <string name="msg_746462fa42" formatted="false">"Ярче"</string>
+    <string name="msg_2e62a3d4d6" formatted="false">"Мягче"</string>
+    <string name="msg_5c41492dce" formatted="false">"Вокал"</string>
+    <string name="msg_0229b82fcb" formatted="false">"Рок"</string>
+    <string name="msg_62f83b983b" formatted="false">"Поп"</string>
+    <string name="msg_130ffde592" formatted="false">"Джаз"</string>
+    <string name="msg_e55d152fd6" formatted="false">"Электроника"</string>
+    <string name="msg_218bfeb257" formatted="false">"Музыка со смартфона"</string>
+    <string name="msg_27bccafb77" formatted="false">"Подключаемся…"</string>
+    <string name="msg_b781342279" formatted="false">"Название или исполнитель"</string>
+    <string name="msg_536a8d45bd" formatted="false">"Поиск музыки"</string>
+    <string name="msg_ed030118aa" formatted="false">"Сортировка"</string>
+    <string name="msg_6fb5cb3976" formatted="false">"Сначала новые"</string>
+    <string name="msg_05a491ff62" formatted="false">"Музыкальный плеер"</string>
+    <string name="msg_53eb25337a" formatted="false">"Нажми кнопку воспроизведения внизу."</string>
+    <string name="msg_8bba719cd9" formatted="false">"Не удалось запустить трек. Проверь связь с телефоном."</string>
+    <string name="msg_e7c745ab26" formatted="false">"Локальный файл"</string>
+    <string name="msg_70c4bdc4e1" formatted="false">"Подключаем трек…"</string>
+    <string name="msg_ea6a699a40" formatted="false">"В библиотеке пока нет треков"</string>
+    <string name="msg_dfd6eb45ef" formatted="false">" · Локальный файл"</string>
+    <string name="msg_e0ecc3666b" formatted="false">"Найдено: "</string>
+    <string name="msg_a31f392414" formatted="false">"Ссылка устарела. Открой новую ссылку с телефона."</string>
+    <string name="msg_8828a88273" formatted="false">"Телефон не смог передать библиотеку."</string>
+    <string name="msg_c1cb4dde1f" formatted="false">"Библиотека обновляется…"</string>
+    <string name="msg_36041e8a0d" formatted="false">"Телефон не отвечает. Проверь Wi-Fi и Muzerion."</string>
+    <string name="msg_e77d1ab0d0" formatted="false">"Связь с телефоном потеряна."</string>
+    <string name="msg_92fd82aae5" formatted="false">"Буферизация…"</string>
+    <string name="msg_10f6115072" formatted="false">"Перематываем…"</string>
+    <string name="msg_8ef2b3bd1a" formatted="false">"Очередь закончилась"</string>
+    <string name="msg_a78ed42cdb" formatted="false">"Браузер не смог воспроизвести файл. Проверь другой трек: возможно, кодек не поддерживается."</string>
+    <string name="msg_1f0c00373c" formatted="false">"Не удалось получить звук с телефона. Проверь соединение и открой трек снова."</string>
+    <string name="msg_923f972900" formatted="false">"Б"</string>
+    <string name="msg_6d6781f955" formatted="false">"КБ"</string>
+    <string name="msg_6eaae42a31" formatted="false">"МБ"</string>
+    <string name="msg_e872c7ba83" formatted="false">"ГБ"</string>
+    <string name="msg_d87632b1f9" formatted="false">"ТБ"</string>
+    <string name="msg_2ffd5f8f5f" formatted="false">"Русский и английский"</string>
+    <string name="msg_a93ae8ffcf" formatted="false">"Выбирай язык в настройках. При первом запуске используется английский."</string>
+    <plurals name="track_count">
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+        <item quantity="other">%d трека</item>
+    </plurals>
+    <string name="msg_d2b1c49a1d" formatted="false">"Замедленно"</string>
+    <string name="msg_4cc6290561" formatted="false">"Обычная"</string>
+    <string name="msg_5ac0bcf0e3" formatted="false">"Ускоренно"</string>
+    <string name="msg_8b7138bc77" formatted="false">"0,50×"</string>
+    <string name="msg_20f75ce6c7" formatted="false">"2,00×"</string>
+</resources>
